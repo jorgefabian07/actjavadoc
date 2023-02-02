@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"exercici_final_entornos","l":"Exercici_final_entornos"},{"p":"vista","l":"Fdos"},{"p":"vista","l":"FPrincipal"},{"p":"vista","l":"Ftres"}];updateSearchResults();
